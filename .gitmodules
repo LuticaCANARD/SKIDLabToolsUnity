@@ -1,3 +1,0 @@
-[submodule "SKID-rust"]
-	path = ./Assets/SKIDLabs/Core/SKID-rust
-	url = https://github.com/LuticaCANARD/SKID-rust.git
